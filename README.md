@@ -23,9 +23,9 @@ Changed background colour of p. Changed font family and size. Added background i
 Changed indentation of p.illus in document 1.
 Changed text colour, font family, and letter spacing in all headers.
 Changed images and paragraphs to make edges rounded with a max width to retain a size when window rescales.
-Background image taken from https://thearthousesouthampton.org/paper-background/ on 2021-02-24
+Background image taken from https://thearthousesouthampton.org/paper-background/ on 2021-02-24 by arthousesouthampton
 Part 2:
-Background image taken from https://ag.hyperxgaming.com/article/2158/dont-starve-together-guide-to-surviving-the-winter on 2021-02-24
+Background image taken from https://ag.hyperxgaming.com/article/2158/dont-starve-together-guide-to-surviving-the-winter on 2021-02-24 by Felicia Miranda
 
 
 
